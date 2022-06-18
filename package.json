@@ -1,0 +1,25 @@
+{
+  "name": "typescripttut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":" PORT=4002 lite-server"
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadZahedii/typescripttut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadZahedii/typescripttut/issues"
+  },
+  "homepage": "https://github.com/mohammadZahedii/typescripttut#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
